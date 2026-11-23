@@ -1,0 +1,8 @@
+
+# Secrets (restored after the payload commit removed them)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+!.env.example
